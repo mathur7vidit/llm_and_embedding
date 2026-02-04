@@ -1,8 +1,6 @@
-# llm_and_embedding
+# LLM & EMBEDDING
 
 A collection of Jupyter notebooks demonstrating experiments with large language models (LLMs), text summarization and generation, sentiment analysis, and embedding / similarity techniques. The notebooks use Hugging Face Transformers, Gensim (word embeddings & soft-cosine similarity), and common Python data science libraries.
-
-Repository: https://github.com/mathur7vidit/llm_and_embedding
 
 ## Contents
 
